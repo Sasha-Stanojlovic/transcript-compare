@@ -4,6 +4,10 @@ A small, standalone Python tool that retrieves two YouTube transcripts with the 
 
 It uses only the Python standard library, so there is nothing to install beyond Python itself.
 
+> **Referral notice:** The Supadata sign-up link below is my personal referral link. If you create a Supadata account through it, I may receive credits. You can also sign up at [supadata.ai](https://supadata.ai) directly.
+>
+> **Get a Supadata account:** [https://supadata.ai/r/SY8MHGCQ](https://supadata.ai/r/SY8MHGCQ)
+
 Originally written as the companion code for a tutorial from [Content Genie](https://contentgenies.ai/).
 
 ## Features
@@ -119,4 +123,4 @@ Released under the [MIT License](LICENSE).
 
 ## Disclosure
 
-The tutorial this project came from was submitted as part of Supadata's credits program.
+The tutorial this project came from was submitted as part of Supadata's credits program. The referral link above is a personal link from the person who published this repository.
